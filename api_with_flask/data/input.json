@@ -1,0 +1,50 @@
+[
+    {
+        "index": "125700",
+        "name": "SL7101559L2",
+        "DimmingGroupName": "Sunrise +15min",
+        "categoryStrId": "streetlight",
+        "CommunicationFailure": "True",
+        "CommunicationStatus": "No data for more than 48 hours",
+        "lat": "-35.186",
+        "lng": "149.127",
+        "MainVoltage": "247.000",
+        "Day": "2",
+        "Month": "11",
+        "Year": "2022",
+        "Hour": "00",
+        "eventTime": "2022-11-02 00:00:00"
+    },
+    {
+        "index": "126030",
+        "name": "SL219562L1",
+        "DimmingGroupName": "Sunrise +15min",
+        "categoryStrId": "streetlight",
+        "CommunicationFailure": "False",
+        "CommunicationStatus": "Active (data received in last 6 hours)",
+        "lat": "-35.325",
+        "lng": "149.164",
+        "MainVoltage": "246.000",
+        "Day": "2",
+        "Month": "11",
+        "Year": "2022",
+        "Hour": "00",
+        "eventTime": "2022-11-02 00:00:00"
+    },
+    {
+        "index": "126043",
+        "name": "SL219578L1",
+        "DimmingGroupName": "Sunrise +15min",
+        "categoryStrId": "streetlight",
+        "CommunicationFailure": "False",
+        "CommunicationStatus": "Active (data received in last 6 hours)",
+        "lat": "-35.324",
+        "lng": "149.167",
+        "MainVoltage": "246.000",
+        "Day": "2",
+        "Month": "11",
+        "Year": "2022",
+        "Hour": "00",
+        "eventTime": "2022-11-02 00:00:00"
+    }
+]
